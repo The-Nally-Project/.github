@@ -81,3 +81,8 @@ Training from scratch is an experiment, not a requirement if it performs materia
 ## 12. Decision criteria
 
 Proceed only if the model provides measurable value over simpler alternatives in quality, privacy, cost, latency, independence or offline capability. A self-developed model is not inherently better merely because it is owned by the project.
+
+
+## Detailed v0.1 technical specification
+
+The experiment-ready contract, intent and entity taxonomy, annotation protocol, architecture comparisons, benchmark methodology, integration boundary and release gates are defined in [Nally Mini v0.1 Technical Specification](NALLY_MINI_V0_1_TECHNICAL_SPEC.md). The parameter bands above remain provisional; do not treat them as a selected model size.
