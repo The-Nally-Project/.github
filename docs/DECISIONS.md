@@ -42,6 +42,8 @@ Explain reasons, not only outcomes. Distinguish evidence from assumptions. Prefe
 
 ## 6. Initial project directions
 
-The project charter and architecture principles capture current direction, including open-source ecosystem intent, steward governance, hybrid model strategy, cloud-first hosting direction, and user control over personal memory and settings.
+The project charter and architecture principles capture current direction, including open-source ecosystem intent, steward governance, cloud-first hosting direction, and user control over personal memory and settings.
 
-These are project directions, not proof that every implementation detail is settled. Formal records should be created as concrete technology and policy choices are made.
+The model strategy is now formally recorded as **independent long-term model ambition with a hybrid initial provider strategy** in [ADR-0001](ADR-0001-model-strategy.md). Its implementation and research implications are detailed in [Model Research Plan](MODEL_RESEARCH_PLAN.md).
+
+A decision record captures a chosen direction; it does not mean the corresponding software, models, training data or infrastructure already exist.
