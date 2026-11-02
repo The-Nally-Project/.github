@@ -10,6 +10,7 @@ This directory contains the technical specifications and engineering policies fo
 - [Intelligence Architecture](INTELLIGENCE_ARCHITECTURE.md) — models, orchestration, planning and execution boundaries.
 - [Model Research Plan](MODEL_RESEARCH_PLAN.md) — staged provider evaluation, Nally Mini, model adaptation and long-term pretraining feasibility.
 - [Nally Mini](NALLY_MINI_SPEC.md) — scope and evaluation plan for a small in-house model.
+- [Nally Mini v0.1 Technical Specification](NALLY_MINI_V0_1_TECHNICAL_SPEC.md) — input/output contracts, taxonomy, annotation, architecture experiments, benchmark and release gates.
 - [Capability System](CAPABILITY_SYSTEM.md) — discoverable, typed and permissioned actions.
 - [Data Governance & Privacy](DATA_GOVERNANCE.md) — data classification, lifecycle, privacy and portability.
 - [Interoperability](INTEROPERABILITY.md) — cross-platform integration and protocol strategy.
