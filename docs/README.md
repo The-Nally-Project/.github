@@ -8,13 +8,15 @@ This directory contains the technical specifications and engineering policies fo
 - [Identity & Authority](IDENTITY_AND_AUTHORITY.md) — principals, delegation, permissions, approval and revocation.
 - [Memory Architecture](MEMORY_ARCHITECTURE.md) — evidence, structured memory, retrieval, lifecycle and user control.
 - [Intelligence Architecture](INTELLIGENCE_ARCHITECTURE.md) — models, orchestration, planning and execution boundaries.
+- [Model Research Plan](MODEL_RESEARCH_PLAN.md) — staged provider evaluation, Nally Mini, model adaptation and long-term pretraining feasibility.
 - [Nally Mini](NALLY_MINI_SPEC.md) — scope and evaluation plan for a small in-house model.
 - [Capability System](CAPABILITY_SYSTEM.md) — discoverable, typed and permissioned actions.
 - [Data Governance & Privacy](DATA_GOVERNANCE.md) — data classification, lifecycle, privacy and portability.
 - [Interoperability](INTEROPERABILITY.md) — cross-platform integration and protocol strategy.
 - [Threat Model](THREAT_MODEL.md) — assets, trust boundaries, threats and mitigations.
-- [Quality & Testing](QUALITY_AND_TESTING.md) — verification, evaluation and release gates.
+- [Quality & Testing](QUALITY_AND_TESTING.md) — verification, evaluation and release principles.
 - [Decision Records](DECISIONS.md) — how important architecture decisions are recorded.
+- [ADR-0001: Model Strategy](ADR-0001-model-strategy.md) — independent long-term model ambition and hybrid initial providers.
 
 ## Project-level documents
 
