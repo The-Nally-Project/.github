@@ -20,17 +20,23 @@
 - [x] Document intelligence orchestration and model boundaries.
 - [x] Document data governance, privacy and initial threat boundaries.
 - [x] Define quality, testing and release principles.
+- [x] Record the accepted model strategy in ADR-0001 and publish the model research plan.
 - [ ] Review specifications with maintainers and convert unresolved questions into decision records.
 
-## Stage 2 — Minimal-model research
+## Stage 2 — Model research
 
 - [x] Define the narrow Nally Mini role and exclusions.
 - [x] Define candidate model approaches and experiment size bands.
 - [x] Define dataset provenance, licensing and annotation requirements.
 - [x] Define evaluation metrics and release gates.
-- [ ] Establish deterministic and pretrained baselines.
+- [x] Establish a staged research plan for provider comparison, evaluation, Nally Mini, model adaptation and pretraining feasibility.
+- [ ] Finalise task taxonomy, risk tiers and representative test cases.
+- [ ] Establish provider/model review and licence/data-handling register.
+- [ ] Build deterministic and pretrained baselines.
 - [ ] Build a reproducible evaluation harness.
-- [ ] Benchmark quality, calibration, latency, memory and energy before selecting an approach.
+- [ ] Compare external and open-weight candidates on identical tasks.
+- [ ] Benchmark Nally Mini candidates for quality, calibration, latency, memory and energy.
+- [ ] Publish a first model research report and stage-gate recommendation.
 
 ## Stage 3 — Software prototype
 
